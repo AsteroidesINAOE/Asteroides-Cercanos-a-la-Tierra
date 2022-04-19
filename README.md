@@ -27,3 +27,53 @@ A continuación, se presenta la traducción de una actividad en la que podrá re
 ### Resumen
 
 Una de las cosas que esperamos que aprenda a través de la observación de objetos cercanos a la Tierra es su periodo exacto de rotación. Podemos hacerlo tomando una serie de observaciones del objeto a lo largo del tiempo, y trazando el cambio en el brillo. Usando [Asteroid Tracker](https://asteroidtracker.lco.global/) puede ayudar a colectar observaciones de objetos NEO interesantes, luego trazar e interpretar sus datos para medir el periodo de rotación de un asteroide.
+
+###Objetivos
+
+Los estudiantes trazarán y analizarán datos observacionales colectados por miembros del público usando *Asteroid Tracker*, y tratarán de medir el periodo de rotación del asteroide.
+
+**Objetivos de Aprendizaje**
+
+- Familiarizarse con asteroides y objetos cercanos a la Tierra
+- Participar en el proyecto de ciencia ciudadana *Asteroid Tracker* y contribuir a ampliar nuestra comprensión del Sistema Solar
+- Trazar una curva fotométrica usando datos observacionales
+-	Interpretar graficas y reconocer la periodicidad en un conjunto de datos
+-	Entender como y por qué los astrónomos estudian el periodo de rotación de un asteroide
+
+###Planeación
+
+**Materiales**
+
+- Una computadora con software de hoja de cálculo y acceso a Internet
+- Datos observacionales de asteroides tomados usando Asteroid Tracker, por ejemplo [2002 KL6](https://s3.us-west-2.amazonaws.com/www.lco.global/documents/2002_kl6.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FT4CXR4ZJRYWHNN%2F20220419%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220419T005107Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=de6c5de397f96b983613d533f9e5e1920d237e2bdbf784d4dd53ee67b91c23b4)
+- Opcional: [hoja de cálculo de actividades de 2002 KL6] (https://drive.google.com/file/d/1yPsU6ZDOwSuAHSx5PZvicfp_vDXsvJ3d/view)
+
+###Trasfondo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
