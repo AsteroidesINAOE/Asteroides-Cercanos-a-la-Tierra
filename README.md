@@ -12,7 +12,7 @@ Cuando ya se tienen las imágenes finales, es necesario identificar el asteroide
 
 Mediante algún software se mide su magnitud en cada imagen y se puede graficar finalmente en función del tiempo. Una gráfica como estas se puede observar a continuación (note que la fecha está dada en formato Juliano).
 
-<img src="https://github.com/Kevin22062000/Servicio-Social/blob/Cambios/771_Libera.PNG" width="475px" alt="400px"/>
+<img src="https://github.com/Kevin22062000/Servicio-Social/blob/main/771_Libera.PNG" width="475px" alt="400px"/>
 
 Como las observaciones que se hacen a un objeto pueden variar en tiempo por días, semanas, meses e incluso años, es conveniente poner los datos en “fase”. Es decir, todas las observaciones de cada fecha que coincidan con una de las caras que nos dé el asteroide corresponderán a un solo valor o estarán alrededor de un solo valor en el eje x. De esta forma, si se observó una cara del asteroide en un momento dado y meses después se observó de nuevo, ambos datos coincidirán alrededor de un punto. Cuando se llega a la última cara del asteroide no se tendrán datos más allá, pues se volvería a estar en la cara que se graficó al inicio. Es por esta razón que los valores en el eje x van desde 0 hasta 1, pues en este extremo final el asteroide habrá dado una vuelta, es decir, habrá completado un periodo de rotación.
 
