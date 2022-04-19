@@ -12,7 +12,7 @@ Cuando ya se tienen las imágenes finales, es necesario identificar el asteroide
 
 Mediante algún software se mide su magnitud en cada imagen y se puede graficar finalmente en función del tiempo. Una gráfica como estas se puede observar a continuación (note que la fecha está dada en formato Juliano).
 
-![](771_Libera.png)
+![Imagen de una curva de luz](771_Libera.png)
 
 Como las observaciones que se hacen a un objeto pueden variar en tiempo por días, semanas, meses e incluso años, es conveniente poner los datos en “fase”. Es decir, todas las observaciones de cada fecha que coincidan con una de las caras que nos dé el asteroide corresponderán a un solo valor o estarán alrededor de un solo valor en el eje x. De esta forma, si se observó una cara del asteroide en un momento dado y meses después se observó de nuevo, ambos datos coincidirán alrededor de un punto. Cuando se llega a la última cara del asteroide no se tendrán datos más allá, pues se volvería a estar en la cara que se graficó al inicio. Es por esta razón que los valores en el eje x van desde 0 hasta 1, pues en este extremo final el asteroide habrá dado una vuelta, es decir, habrá completado un periodo de rotación.
 
@@ -28,7 +28,7 @@ A continuación, se presenta la traducción de una actividad en la que podrá re
 
 Una de las cosas que esperamos que aprenda a través de la observación de objetos cercanos a la Tierra es su periodo exacto de rotación. Podemos hacerlo tomando una serie de observaciones del objeto a lo largo del tiempo, y trazando el cambio en el brillo. Usando [Asteroid Tracker](https://asteroidtracker.lco.global/) puede ayudar a colectar observaciones de objetos NEO interesantes, luego trazar e interpretar sus datos para medir el periodo de rotación de un asteroide.
 
-###Objetivos
+### Objetivos
 
 Los estudiantes trazarán y analizarán datos observacionales colectados por miembros del público usando *Asteroid Tracker*, y tratarán de medir el periodo de rotación del asteroide.
 
@@ -40,7 +40,7 @@ Los estudiantes trazarán y analizarán datos observacionales colectados por mie
 -	Interpretar graficas y reconocer la periodicidad en un conjunto de datos
 -	Entender como y por qué los astrónomos estudian el periodo de rotación de un asteroide
 
-###Planeación
+### Planeación
 
 **Materiales**
 
@@ -48,7 +48,7 @@ Los estudiantes trazarán y analizarán datos observacionales colectados por mie
 - Datos observacionales de asteroides tomados usando Asteroid Tracker, por ejemplo [2002 KL6](https://s3.us-west-2.amazonaws.com/www.lco.global/documents/2002_kl6.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6FT4CXR4ZJRYWHNN%2F20220419%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220419T005107Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=de6c5de397f96b983613d533f9e5e1920d237e2bdbf784d4dd53ee67b91c23b4)
 - Opcional: [hoja de cálculo de actividades de 2002 KL6](https://drive.google.com/file/d/1yPsU6ZDOwSuAHSx5PZvicfp_vDXsvJ3d/view)
 
-###Trasfondo
+### Trasfondo
 
 
 
