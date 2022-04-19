@@ -94,7 +94,7 @@ Algunos datos están disponibles desde el *Asteroid Tracker* para el asteroide 2
 
     I:	**Telescope Code** (un código hecho de varios números de letras y números).
 
-<img src="https://github.com/Kevin22062000/Servicio-Social/blob/main/asteroid-rotation-scrn10-700x150.max-1000x1000.png"/>
+    <img src="https://github.com/Kevin22062000/Servicio-Social/blob/main/asteroid-rotation-scrn10-700x150.max-1000x1000.png"/>
 
 3. Ordene su hoja de cálculo por el **Telescope Code**. Borre todas las filas que no tengan el telescope code ‘**Z21**’, esto nos dejará con datos colectados por un telescopio LCO de 0.4 metros en el Observatorio Teide.
 
